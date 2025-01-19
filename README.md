@@ -25,8 +25,8 @@ Methylene Blue|improve cognitive function|
 Vitamin B Complex|improve energy level|
 Coriander + Chlorella|remove heavy metals|
 Caster Oil (topical)|aid detox process|
-Omega-3 (vegan type)||
-Grounding (natural)||
-Avoid Gluten||
-Avoid Dairy||
-Avoid Sugar||
+Omega-3 (vegan type)|nourish brain function|
+Grounding (natural)|remove excess charges|
+Avoid Gluten|reduce brain fog|
+Avoid Dairy|reduce brain fog|
+Avoid Sugar|reduce brain fog|
