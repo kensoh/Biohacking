@@ -15,7 +15,7 @@ I see the financial markets as an ultra-competitive field, no different from pro
 
 I could relate with Novak's intense desire to do what it takes to be the best in his ultra-competitive field.
 
-Do you know his reward after winning a major tournament? It was a square, broken out of a bar of chocolate.
+Do you know his reward after winning a major tournament? It was a square, out of a bar of chocolate.
 
 Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like in professional sports there are very few winners at the top who are willing to do and can do what others won't.
 
