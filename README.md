@@ -21,12 +21,12 @@ Every 2 weeks, I'll write a LinkedIn post on a protocol item to share more about
 ### Protocol
 What|Why|How
 :--|:---|:--
-Methylene Blue|improve cognitive function|
-Vitamin B Complex|improve energy level|
-Coriander + Chlorella|remove heavy metals|
-Caster Oil (topical)|aid detox process|
-Omega-3 (vegan type)|nourish brain function|
-Grounding (natural)|remove excess charges|
+Methylene Blue|improve cognitive function|pharma grade, take with water
+Vitamin B Complex|improve energy level|liquid vitamin form, take directly
+Coriander + Chlorella|remove heavy metals|blend together with oat milk
+Caster Oil (topical)|aid detox process|apply on forehead at night
+Omega-3 (vegan type)|nourish brain function|soft jellies, chewable directly
+Grounding (natural)|remove excess charges|touch tree leaves or grass
 Avoid Gluten|reduce brain fog|
 Avoid Dairy|reduce brain fog|
 Avoid Sugar|reduce brain fog|
