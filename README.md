@@ -15,6 +15,8 @@ I see the financial markets as an ultra-competitive field, no different from pro
 
 I could relate with Novak's intense desire to do what it takes to be the best in his ultra-competitive field.
 
+Do you know how he reward himself when he won a major tournament? It was just a square, off a bar of chocolate.
+
 Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like in professional sports there are very few winners at the top who are willing to do and can do what others won't.
 
 I know that by optimising my mental dexterity and physical energy, I will do even better in my startup job (especially when I'm the oldest in the company and 15 years older than my team's average age). Most importantly, I really really want to do well in my parenting role! Given that I started my family late, I need every ounce of energy I can draw and the mental alertness after work to match my little one.
