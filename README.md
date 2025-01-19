@@ -10,12 +10,22 @@ Back in 2023 I read this book [Serve To Win](https://www.amazon.co.uk/Serve-Win-
 
 I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply related to someone sharing his experience on this topic. This was because despite me having a highly successful career in tech, I'm equally if not even more accomplished in my financial markets skills. For example, over the past few years I have been outperforming most hedge funds, with my multi-asset investment portfolio hitting +26.4% gain in 2024 and +11.3% high so far in the first couple of weeks in 2025. Not forgetting 21/22 winning positions in 2023, across stocks, indices, commodities, cryto, forex.
 
-I see the financial markets as a zero-sum ultra-competitive field, no different from professional sports. To win, an investor or trader will need to optimise everything they can, because once we step into the market, we can competing with the best in the world, the hedge funds, the investment banks, the full-time traders etc. When 2 equally skilled traders meet in the market and one has slightly less mental clarity or some unresolved emotional baggage, that one will lose. It is as simple as that. Novak's book showed a real example of how performance could be optimised outside of the courts. And gave me the push to take this seriously.
+I see the financial markets as a zero-sum ultra-competitive field, no different from professional sports. To win, an investor or trader will need to optimise everything they can, because once we step into the market, we are competing with the best in the world, the hedge funds, the investment banks, the full-time traders etc. When 2 equally skilled traders meet in the market and one has slightly less mental clarity or some unresolved emotional baggage, that trader will lose. It is as simple as that. Novak's book showed a real example of how performance could be optimised outside of the courts. His story gave me the push to take this seriously.
+
+Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol as well. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like professional sports there are just very few winners at the top. And I know that by optimising my mental dexterity and physical energy, I will do better in my day job too (where I'm the oldest in the company and at least 15 years older than my team-mates' average age). And most importantly, I really want to do well in my parenting role! Given that I started family late, I need every ounce of energy I can and mental alertness to match my little one.
 
 ### How
-
+Every 2 weeks, I'll write a LinkedIn post on a protocol item to share about it, as well as ask for feedback from my network for tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025. Before sharing my findings at end of the year. For a start, below is my current protocol.
 
 ### Protocol
 What|Why|How
 :--|:---|:--
-What|Why|How
+Methylene Blue||
+Vitamin B Complex||
+Coriander + Chlorella||
+Caster Oil (topical)||
+Omega-3 (vegan)||
+Grounding||
+Avoid Gluten||
+Avoid Milk||
+Avoid Sugar||
