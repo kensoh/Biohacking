@@ -13,7 +13,7 @@ I'm not new to the idea that the food and nutrition we eat impact our well-being
 
 I see the financial markets as an ultra-competitive field, no different from professional sports. To win, an investor or trader will need to optimise everything they can, because once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally skilled traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It is as simple as that. Novak's book showed a real example of how tennis performance could be optimised outside of the courts. His story gave me the push I needed to take this idea seriously.
 
-I could relate with Novak's intense desire and commitment to do all it takes to be the best in his ultra-competitive field.
+I could relate with Novak's intense desire to do what it takes to be the best in his ultra-competitive field.
 
 Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like in professional sports there are very few winners at the top who are willing to do and can do what others won't.
 
