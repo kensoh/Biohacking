@@ -1,12 +1,21 @@
 # Biohacking
+[Intro video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
+Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and I would like to boost my mental dexterity and physical energy levels. Since the differences between our DNA are very minimal, as I move along this journey, gathering inputs and iterating, my anedoctal experience could be a useful reference for other folks who wish to unlock more out of their lives and maximise their potential.
+
 
 ### Why
+Back in 2023 I read this book [Serve To Win](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534) by Novak Djokovic, the world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack. But in the 18 months after he made those changes, he rose up and has stayed there for many many years. At 36 years, he is still outperforming younger opponents in the prime of their lives.
+
+I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply related to someone sharing his experience on this topic. This was because despite me having a highly successful career in tech, I'm equally if not even more accomplished in my financial markets skills. For example, over the past few years I have been outperforming most hedge funds, with my multi-asset investment portfolio hitting +26.4% gain in 2024 and +11.3% high so far in the first couple of weeks in 2025. Not forgetting 21/22 winning positions in 2023, across stocks, indices, commodities, cryto, forex.
+
+I see the financial markets as a zero-sum ultra-competitive field, no different from professional sports. To win, an investor or trader will need to optimise everything they can, because once we step into the market, we can competing with the best in the world, the hedge funds, the investment banks, the full-time traders etc. When 2 equally skilled traders meet in the market and one has slightly less mental clarity or some unresolved emotional baggage, that one will lose. It is as simple as that. Novak's book showed a real example of how performance could be optimised outside of the courts. And gave me the push to take this seriously.
 
 ### How
 
-###3 Protocol
+
+### Protocol
 What|Why|How
 :--|:---|:--
 What|Why|How
