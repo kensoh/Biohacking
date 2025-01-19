@@ -21,10 +21,10 @@ Every 2 weeks, I'll write a LinkedIn post on a protocol item to share more about
 ### Protocol
 What|Why|How
 :--|:---|:--
-Methylene Blue||
-Vitamin B Complex||
-Coriander + Chlorella||
-Caster Oil (topical)||
+Methylene Blue|improve cognitive function|
+Vitamin B Complex|improve energy level|
+Coriander + Chlorella|remove heavy metals|
+Caster Oil (topical)|aid detox process|
 Omega-3 (vegan type)||
 Grounding (natural)||
 Avoid Gluten||
