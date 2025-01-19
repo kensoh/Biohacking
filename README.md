@@ -1,4 +1,4 @@
-# Biohacking
+# Biohacking 🧬🧠🤜🤛
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
