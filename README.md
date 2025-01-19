@@ -19,10 +19,12 @@ Do you know his reward after winning a major tournament? It was a square, broken
 
 Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like in professional sports there are very few winners at the top who are willing to do and can do what others won't.
 
-I know that by optimising my mental dexterity and physical energy, I will do even better in my startup job (more so when I'm the oldest in the company and 15 years older than my team's average age). Most importantly, I really really want to do well in my parenting role! Given that I started my family late, I need every ounce of energy I can draw and the mental alertness after work to match my little one.
+I know that by optimising my mental dexterity and physical energy, I will do even better at my startup job (more so when I'm the oldest in the company and 15 years older than my team's average age). Most importantly, I really really want to do well in my parenting role! Given that I started my family late, I need every ounce of energy I can draw, and the mental alertness after work to match my little one.
 
 ### How
-Every 2 weeks, I'll write a LinkedIn post on a protocol item to share more about it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025. Before sharing my findings and conclusion for myself at end of the year. For a start, below is my present protocol. I'm not new to most of these, other than Methylene Blue which is in experimental stage.
+Every 2 weeks, I'll write a LinkedIn post on a protocol item to share more about it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
+
+Before sharing my findings and conclusion for myself at end of the year. For a start, below is my present protocol. I'm not new to most of these, other than Methylene Blue which is in experimental stage. I heard it recently from Joe Rogan's show from Mel Gibson and decided that I have to test it for myself.
 
 ### Protocol
 What|Why|How
