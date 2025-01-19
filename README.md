@@ -24,7 +24,7 @@ I know that by optimising my mental dexterity and physical energy, I will do eve
 ### How
 Every 2 weeks, I'll write a LinkedIn post on a protocol item to share more about it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
 
-Before sharing my findings and conclusion for myself at end of the year. For a start, below is my present protocol. I'm not new to most of these, other than Methylene Blue which is in experimental stage. I heard it recently from Joe Rogan's show from Mel Gibson and decided that I have to test it for myself.
+Before sharing my findings and conclusion for myself at end of the year. For a start, below is my present protocol. I'm not new to most of these, other than Methylene Blue which is in experimental stage. I heard it from Joe Rogan's show with Mel Gibson last week, and decided that I have to test it for myself.
 
 ### Protocol
 What|Why|How
@@ -35,6 +35,8 @@ Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Caster Oil (topical)|aid detox process|apply on forehead at night
 Omega-3 (vegan type)|nourish brain function|soft jellies, chewable directly
 Grounding (natural)|remove excess charges|touch tree leaves or grass
+Avoid Coffee|regulate energy better|only decaf coffee and tea
+Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, desserts
 Avoid Sugar|reduce brain fog|eg added in drinks and food
