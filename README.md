@@ -27,6 +27,6 @@ Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Caster Oil (topical)|aid detox process|apply on forehead at night
 Omega-3 (vegan type)|nourish brain function|soft jellies, chewable directly
 Grounding (natural)|remove excess charges|touch tree leaves or grass
-Avoid Gluten|reduce brain fog|
-Avoid Dairy|reduce brain fog|
-Avoid Sugar|reduce brain fog|
+Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
+Avoid Dairy|reduce brain fog|eg milk, cheese, desserts
+Avoid Sugar|reduce brain fog|eg added in drinks and food
