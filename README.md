@@ -1,4 +1,4 @@
-# Biohacking 🧬🧠🤜🤛🔓
+# Biohacking 🧬🧠💪🔓
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
@@ -33,7 +33,7 @@ Methylene Blue|improve cognitive function|pharma grade, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Caster Oil (topical)|aid detox process|apply on forehead at night
 Grounding (natural)|remove excess charges|hold tree leaves or grass
-Avoid Coffee|regulate energy better|only decaf coffee, and tea
+Avoid Coffee|avoid crashes|only decaf coffee, and tea
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, desserts
