@@ -24,7 +24,7 @@ I know that by optimising my mental dexterity and physical energy, I'll perform 
 ### How
 Every 2 weeks, I'll write a LinkedIn post on a protocol item to share more about it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
 
-Before sharing my findings and conclusion for myself at the end of the year. For a start, below is my current protocol. I'm not new to most of these, other than Methylene Blue which is in experimental stage. I heard it from Joe Rogan's show with Mel Gibson last week, and decided that I have to test it for myself.
+Before sharing my findings and conclusion for myself at the end of the year. For a start, below is my current protocol. I'm not new to most of these, other than Methylene Blue which is in experimental stage. I heard it from Joe Rogan's show with Mel Gibson last week, and I just have to test it for myself.
 
 ### Protocol
 What|Why|How
