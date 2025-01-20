@@ -34,8 +34,8 @@ Vitamin B Complex|improve energy level|liquid vitamin form, take directly
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Caster Oil (topical)|aid detox process|apply on forehead at night
 Omega-3 (vegan type)|nourish brain function|soft jellies, chewable directly
-Grounding (natural)|remove excess charges|touch tree leaves or grass
-Avoid Coffee|regulate energy better|only decaf coffee and tea
+Grounding (natural)|remove excess charges|hold tree leaves or grass
+Avoid Coffee|regulate energy better|only decaf coffee, and tea
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, desserts
