@@ -30,10 +30,8 @@ Before sharing my findings and conclusion for myself at the end of the year. For
 What|Why|How
 :--|:---|:--
 Methylene Blue|improve cognitive function|pharma grade, take with water
-Vitamin B Complex|improve energy level|liquid vitamin form, take directly
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Caster Oil (topical)|aid detox process|apply on forehead at night
-Omega-3 (vegan type)|nourish brain function|soft jellies, chewable directly
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Avoid Coffee|regulate energy better|only decaf coffee, and tea
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
