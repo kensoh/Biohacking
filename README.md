@@ -31,7 +31,7 @@ What|Why|How
 :--|:---|:--
 Methylene Blue|improve cognitive function|pharma grade, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
-Fasting|aid detox process|still figuring
+Fasting|aid detox process|still experimenting
 Caster Oil (topical)|aid detox process|apply on forehead at night
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Avoid Coffee|avoid crashes|only decaf coffee, and tea
