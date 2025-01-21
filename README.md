@@ -32,11 +32,12 @@ What|Why|How
 Methylene Blue|improve cognitive function|pharma grade, take with water
 Echinacea|improve mental clarity|tincture, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
-Fasting (no food)|aid detox process|still figuring out
+Distilled Water|reduce contaminants|use distiller at home
+Fasting (no food)|aid detox process|still figuring out how
 Caster Oil (topical)|aid detox process|apply on forehead at night
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Avoid Coffee|avoid crashes|only decaf coffee, and tea
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
-Avoid Dairy|reduce brain fog|eg milk, cheese, desserts
+Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
 Avoid Sugar|reduce brain fog|eg added in drinks and food
