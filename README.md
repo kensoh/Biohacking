@@ -4,8 +4,6 @@
 ### Intro
 Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their current limits.
 
-Since the differences between our DNA are very minimal (0.1%), as I move along this journey, gathering inputs, experimenting and iterating, my anedoctal experience might be useful data points for other folks who wish to unlock more out of their lives and maximise their potential.
-
 ### Why
 Back in 2023 I read this book [Serve To Win](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534) by Novak Djokovic, world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack. But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36 years old, he is still outperforming younger opponents at the prime of their lives.
 
@@ -21,8 +19,6 @@ Furthermore, I know that by optimising my mental dexterity and physical energy, 
 
 ### How
 Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
-
-Before sharing my findings and conclusion for myself at the end of the year. For a start, below is my current protocol. I'm not new to most of these, other than Methylene Blue which is in experimental stage. I heard it from Joe Rogan's show with Mel Gibson last week, and I just have to test it for myself.
 
 ### Protocol
 What|Why|How
