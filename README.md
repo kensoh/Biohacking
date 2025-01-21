@@ -30,6 +30,7 @@ Before sharing my findings and conclusion for myself at the end of the year. For
 What|Why|How
 :--|:---|:--
 Methylene Blue|improve cognitive function|pharma grade, take with water
+Echinacea|improve mental clarity|tincture, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Fasting (no food)|aid detox process|still figuring out
 Caster Oil (topical)|aid detox process|apply on forehead at night
