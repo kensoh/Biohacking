@@ -42,4 +42,4 @@ Avoid Sugar|reduce brain fog|eg added in drinks and food
 
 ### Backlog
 
-Placeholder section to document trusted crowd-sourced ideas for selection and experimentation.
+Placeholder section to document crowd-sourced ideas for selection and experimentation. These ideas are from trusted sources but not yet tested on myself.
