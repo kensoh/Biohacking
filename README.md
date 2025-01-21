@@ -24,7 +24,7 @@ Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
 Avoid Sugar|reduce brain fog|eg added in drinks and food
 
 ### Backlog
-Placeholder section to document crowd-sourced ideas for selection and experimentation. These ideas are from trusted sources but not yet tested on myself.
+Placeholder section to document crowd-sourced ideas for selection and experimentation. These ideas are from trusted sources but not yet tested.
 
 ### Why
 Back in 2023 I read this book [Serve To Win](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534) by Novak Djokovic, world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack. But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36 years old, he is still outperforming younger opponents at the prime of their lives.
@@ -33,7 +33,7 @@ I'm not new to the idea that the food and nutrition we eat impact our well-being
 
 I see the financial markets as an ultra-competitive field, no different from professional sports. To win, an investor or trader will need to optimise everything they can, because once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally skilled traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It is as simple as that. Novak's book showed a real example of how tennis performance could be optimised outside of the courts and gym. His story gave me the push I needed to take this idea seriously.
 
-I could relate with Novak's intense desire to do what it takes to be the best in his ultra-competitive field. And do you know his reward after winning a major tournament? It was 1 square, out of a bar of chocolate.
+I could relate with Novak's intense desire to do what it takes to be the best in his ultra-competitive field.
 
 Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like in professional sports there are very few winners at the top who are willing to do and can do what others won't.
 
