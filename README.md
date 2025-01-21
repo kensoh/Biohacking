@@ -17,7 +17,7 @@ I could relate with Novak's intense desire to do what it takes to be the best in
 
 Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like in professional sports there are very few winners at the top who are willing to do and can do what others won't.
 
-Furthermore, I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job (more so when I'm the oldest in the company and 15 years older than the team's average age). Most importantly, I really really want to do well in my parenting role! I started my family late and need every ounce of energy I can draw, and the mental alertness after work to match my little one.
+Furthermore, I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job (more so when I'm the oldest in the company and 15 years older than the team's average age). Most importantly, I really really want to do well in my parenting role! I started my family late and need every ounce of energy I can draw, and all the mental alertness after work to match my little one.
 
 ### How
 Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
@@ -31,7 +31,7 @@ Methylene Blue|improve cognitive function|pharma grade, take with water
 Echinacea|improve mental clarity|tincture, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Distilled Water|reduce contaminants|use distiller at home
-Fasting (no food)|aid detox process|still figuring out how
+Fasting (no food)|aid detox process|still figuring rhythm
 Caster Oil (topical)|aid detox process|apply on forehead at night
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Avoid Coffee|avoid crashes|only decaf coffee, and tea
