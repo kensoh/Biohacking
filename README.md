@@ -26,6 +26,10 @@ Avoid Sugar|reduce brain fog|eg added in drinks and food
 ### Backlog
 Placeholder section to document crowd-sourced ideas for selection and experimentation. These ideas are from trusted sources but not yet tested.
 
+What|Why|How
+:--|:---|:--
+||
+
 ### Why
 Back in 2023 I read this book [Serve To Win](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534) by Novak Djokovic, world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack. But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36 years old, he is still outperforming younger opponents at the prime of their lives.
 
