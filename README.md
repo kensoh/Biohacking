@@ -24,7 +24,7 @@ Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
 Avoid Sugar|reduce brain fog|eg in drinks and food
 
 ### Backlog
-Placeholder section to document trusted crowd-sourced ideas for selection and experimentation.
+Trusted crowd-sourced ideas for selection and experimentation, not yet tested on myself.
 
 What|Why|How
 :--|:---|:--
