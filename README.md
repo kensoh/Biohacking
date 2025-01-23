@@ -33,7 +33,7 @@ What|Why|How
 ### Why
 Back in 2023 I read this book [Serve To Win](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534) by Novak Djokovic, world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack.
 
-But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still outperforming younger opponents at the prime of their lives.
+But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at the prime of their lives.
 
 I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. This was because despite having a highly successful career in tech, I'm even more accomplished in my financial markets skills.
 
@@ -43,4 +43,4 @@ Being a retail investor / trader for 18 years, I see the financial markets as an
 
 Novak's book showed a real example of how tennis performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job (more so when I'm the oldest in the company and 15 years older than the team's average age). Most importantly, I really really want to do well in my parenting role! I started my family late and need every ounce of energy I can draw, and all the mental alertness after work to match my little one.
+Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job. More so when I'm the oldest in the company and 15 years older than the team's average age 😅.
