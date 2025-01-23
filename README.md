@@ -29,7 +29,7 @@ Trusted crowd-sourced ideas for selection and experimentation on myself.
 What|Why|How
 :--|:---|:--
 Oxygenating|maintain alkaline state|through breathwork
-Meditation|purge mental baggages|let thoughts drift
+Meditation|remove baggages|let thoughts drift
 Lion's Mane|aid neural plasticity|mushroom powder
 Trampolining|aid lymphatic system|jump on trampoline
 Cold shower|aid blood circulation|ice water in winter
