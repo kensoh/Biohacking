@@ -43,6 +43,4 @@ Being a retail investor / trader for 18 years, I see the financial markets as an
 
 Novak's book showed a real example of how tennis performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. Gluten, dairy and sugar is everywhere and I avoid where practically possible.
-
-I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job (more so when I'm the oldest in the company and 15 years older than the team's average age). Most importantly, I really really want to do well in my parenting role! I started my family late and need every ounce of energy I can draw, and all the mental alertness after work to match my little one.
+Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job (more so when I'm the oldest in the company and 15 years older than the team's average age). Most importantly, I really really want to do well in my parenting role! I started my family late and need every ounce of energy I can draw, and all the mental alertness after work to match my little one.
