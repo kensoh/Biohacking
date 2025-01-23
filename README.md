@@ -39,14 +39,10 @@ I'm not new to the idea that the food and nutrition we eat impact our well-being
 
 Over the past few years I have been outperforming most hedge funds, and their teams of highly paid specialists. With my personal investment portfolio hitting +26.4% gain in 2024, and +11.3% high in the first couple of weeks in 2025. Not to mention 21/22 winning positions in 2023, across stocks, indices, commodities, crypto, forex. And a positive return in 2022 while the return for hedge fund asset class was negative and NASDAQ was down 33%.
 
-I could relate with Novak's intense desire to do what it takes to be the best in his ultra-competitive field.
-
-After more than 18 years as a retail investor / trader, I see the financial markets as an ultra-competitive field, no different from professional sports. To win, an investor or trader will need to optimise everything they can, because once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally skilled traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It is as simple as that.
+Being a retail investor / trader for 18 years, I see the financial markets as an ultra-competitive field, no different from professional sports. To win, an investor or trader will need to optimise everything they can, because once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally skilled traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It is as simple as that.
 
 Novak's book showed a real example of how tennis performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. I'm willing to go to extreme measures to do what it takes to win in the financial markets, just like in professional sports there are very few winners at the top who are willing to do and can do what others won't.
+Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I only drink decaf coffee now and don't drink alcohol. Gluten, dairy and sugar is everywhere and I avoid where practically possible.
 
-Lastly, I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job (more so when I'm the oldest in the company and 15 years older than the team's average age).
-
-Most importantly, I really really want to do well in my parenting role! I started my family late and need every ounce of energy I can draw, and all the mental alertness after work to match my little one.
+I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job (more so when I'm the oldest in the company and 15 years older than the team's average age). Most importantly, I really really want to do well in my parenting role! I started my family late and need every ounce of energy I can draw, and all the mental alertness after work to match my little one.
