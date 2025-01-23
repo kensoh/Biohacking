@@ -11,24 +11,28 @@ Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on
 What|Why|How
 :--|:---|:--
 Methylene Blue|improve cognitive function|pharma grade, take with water
-Echinacea|improve mental clarity|tincture, take with water
+Echinacea|improve mental clarity|tincture form, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Distilled Water|reduce contaminants|use distiller at home
-Fasting (no food)|aid detox process|still figuring rhythm
-Caster Oil (topical)|aid detox process|apply on forehead at night
+Fasting (no food)|aid detox process|still figuring the rhythm
+Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Avoid Coffee|avoid crashes|only decaf coffee, and tea
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
-Avoid Sugar|reduce brain fog|eg added in drinks and food
+Avoid Sugar|reduce brain fog|eg in drinks and food
 
 ### Backlog
 Placeholder section to document trusted crowd-sourced ideas for selection and experimentation.
 
 What|Why|How
 :--|:---|:--
-||
+Oxygenating|retain alkaline state|through breathwork
+Meditation|purge mental baggages|let thoughts drift
+Lion's Mane|neural plasticity|mushroom powder
+Trampolining|lymphatic system|jump on trampoline
+Cold shower|blood circulation|ice water in winter
 
 ### Why
 Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack.
@@ -43,4 +47,4 @@ Being a retail investor / trader for 18 years, I see the financial markets as an
 
 Novak's book showed a real example of how tennis performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job. More so when I'm the oldest in the company and 15 years older than the team's average age 😅.
+Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having a meal containing meat or fish once a week. I know that by optimising my mental dexterity and physical energy, I'll perform better at my startup job. More so when I'm the oldest in the company and 15 years older than the team's average age 😅
