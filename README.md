@@ -28,11 +28,13 @@ Placeholder section to document trusted crowd-sourced ideas for selection and ex
 
 What|Why|How
 :--|:---|:--
-Oxygenating|retain alkaline state|through breathwork
+Oxygenating|maintain alkaline state|through breathwork
 Meditation|purge mental baggages|let thoughts drift
-Lion's Mane|neural plasticity|mushroom powder
-Trampolining|lymphatic system|jump on trampoline
-Cold shower|blood circulation|ice water in winter
+Lion's Mane|aid neural plasticity|mushroom powder
+Trampolining|aid lymphatic system|jump on trampoline
+Cold shower|aid blood circulation|ice water in winter
+Milk Thistle|protect liver & brain|tea or powder form
+Avoid Seed Oils|reduce inflammation|eg oil used in food
 
 ### Why
 Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack.
