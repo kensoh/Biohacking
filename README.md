@@ -17,6 +17,8 @@ Distilled Water|reduce contaminants|use distiller at home
 Fasting (no food)|aid detox process|still figuring the rhythm
 Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
+Meditation|remove baggages|let thoughts drift
+Cold shower|aid blood circulation|ice water in winter
 Avoid Caffeine|avoid crashes|not even decaf coffee, no tea
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
@@ -29,10 +31,8 @@ Trusted crowd-sourced ideas for selection and experimentation on myself.
 What|Why|How
 :--|:---|:--
 Oxygenating|maintain alkaline state|through breathwork
-Meditation|remove baggages|let thoughts drift
 Lion's Mane|aid neural plasticity|mushroom powder
 Trampolining|aid lymphatic system|jump on trampoline
-Cold shower|aid blood circulation|ice water in winter
 Milk Thistle|protect liver & brain|tea or powder form
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 
