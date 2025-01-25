@@ -17,6 +17,7 @@ Distilled Water|reduce contaminants|use distiller at home
 Fasting (no food)|aid detox process|still figuring the rhythm
 Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
+Oxygenating|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
 Cold shower|aid blood circulation|ice water in winter
 Avoid Caffeine|avoid crashes|not even decaf coffee, no tea
@@ -30,7 +31,6 @@ Trusted crowd-sourced ideas for selection and experimentation on myself.
 
 What|Why|How
 :--|:---|:--
-Oxygenating|maintain alkaline state|through breathwork
 Lion's Mane|aid neural plasticity|mushroom powder
 Trampolining|aid lymphatic system|jump on trampoline
 Milk Thistle|protect liver & brain|tea or powder form
