@@ -2,7 +2,7 @@
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
-Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their present limits. Let's go get 2025!
+Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their present limits. Let's go 2025!
 
 ### How
 Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
@@ -14,13 +14,13 @@ Methylene Blue|improve cognitive function|pharma grade, take with water
 Echinacea|improve mental clarity|tincture form, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Distilled Water|reduce contaminants|use distiller at home
-Fasting (no food)|aid detox process|still figuring the rhythm
+Fasting (no food)|aid detox process|5-day fast as needed
 Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenating|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
 Cold shower|aid blood circulation|ice water in winter
-Avoid Caffeine|avoid crashes|not even decaf coffee, no tea
+Avoid Caffeine|avoid crashes and lead|not even decaf coffee, no tea
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
