@@ -2,7 +2,7 @@
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
-Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their current limits. Let's go get 2025!
+Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their limits. Let's go get 2025!
 
 ### How
 Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
@@ -37,11 +37,11 @@ Milk Thistle|protect liver & brain|tea or powder form
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 
 ### Why
-Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to the top of the pack despite pushing hard.
+Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to top of the pack despite pushing hard.
 
 But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at the prime of their lives.
 
-I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. This was because despite having a highly successful career in tech, I'm equally accomplished in my financial markets skills.
+I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. This was because despite having a highly successful career in digital tech, I'm equally accomplished in my financial markets skills.
 
 Over the past few years I have been outperforming most hedge funds, and their teams of highly paid specialists. With my personal investment portfolio hitting +26.4% gain in 2024, and +11.3% high in the first couple of weeks in 2025. Not to mention 21/22 winning positions in 2023, across stocks, indices, commodities, crypto, forex. And a positive return in 2022 while the return for hedge fund asset class was negative and NASDAQ was down 33%.
 
