@@ -10,7 +10,7 @@ Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on
 ### Protocol
 What|Why|How
 :--|:---|:--
-Methylene Blue|improve cognitive function|pharma grade, take with water
+[Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water
 Echinacea|improve mental clarity|tincture form, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Distilled Water|reduce contaminants|use distiller at home
@@ -49,4 +49,4 @@ Being a retail investor and trader for 18 years, I see the financial markets as 
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having meat or fish once a week. I know that by levelling up my mental dexterity and physical energy, I'll do even better at my startup job. Both attributes are much needed when I'm 15 years older than the team's average age! 😅
+Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having meat or fish once a week. I know that by levelling up my mental dexterity and physical energy, I'll do even better at my startup job. Both attributes are needed when I'm 15 years older than the team's average age! 😅
