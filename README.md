@@ -41,7 +41,7 @@ Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazo
 
 But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at the prime of their lives.
 
-I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. This was because despite having a highly successful career in digital technologies, I'm a seasoned player in the financial markets.
+I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. This was because despite having a highly successful career in digital technologies, I'm a [seasoned player in the financial markets](https://www.linkedin.com/pulse/technical-analysis-1-coffee-ken-soh-dveoe/).
 
 Over the past few years I have been outperforming most hedge funds, and their teams of highly paid specialists. With my personal investment portfolio hitting +26.4% gain in 2024, and +11.3% high in the first couple of weeks in 2025. Not to mention 21/22 winning positions in 2023 across stocks, indices, commodities, crypto, forex. And a positive return in 2022 while the return for hedge fund asset class was negative and NASDAQ was down 33%.
 
@@ -49,4 +49,4 @@ Being a retail investor and trader for 18 years, I see the financial markets as 
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but I'm still experimenting, having meat or fish once a week. I know that by levelling up my mental dexterity and physical energy, I'll do even better at my startup job. Both attributes are needed when I'm 15 years older than the team's average age 😅
+Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat or fish once a week. I know that by levelling up my mental dexterity and physical energy, I'll do better at my startup job. Both attributes are needed when I'm 15 years older than the team's average age 😅
