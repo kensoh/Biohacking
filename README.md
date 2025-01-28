@@ -2,7 +2,7 @@
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
-Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their present limits. Let's go!
+Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their present limits. Let's go get 2025!
 
 ### How
 Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of 2025 and have a good runway to experiment on myself for the second half of 2025.
@@ -20,7 +20,7 @@ Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenating|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
 Cold shower|aid blood circulation|ice water in winter
-Avoid Caffeine|avoid crashes and lead|not even decaf coffee, no tea
+Avoid Caffeine|avoid crashes and lead|not even decaf coffee
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
@@ -37,7 +37,7 @@ Lion's Mane|aid neural plasticity|mushroom powder
 Milk Thistle|protect liver & brain|tea or powder form
 
 ### Why
-Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, and eating a plant-based diet, he just couldn't get to top of the pack despite pushing hard.
+Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, eating a plant-based diet, he just couldn't get to top of the pack despite pushing hard.
 
 But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at the prime of their lives.
 
