@@ -14,7 +14,7 @@ What|Why|How
 Echinacea|improve mental clarity|tincture form, take with water
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Distilled Water|reduce contaminants|use distiller at home
-Fasting (no food)|aid detox process|1/3/5-day fast as needed
+Fasting (no food)|aid detox process|1-to-5-day fast as needed
 Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenating|maintain alkaline state|through breathwork
