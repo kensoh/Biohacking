@@ -31,9 +31,9 @@ Trusted crowd-sourced ideas for selection and experimentation
 
 What|Why|How
 :--|:---|:--
+Raw vegetable juices|increase brain white matter|use a masticating juicer
 Gingko Biloba|improve blood flow to brain|tincture form, take with water
 Tumeric + Cinnamon|improve cognitive function|herbal tea blend (no tea)
-Raw vegetable juices||use a masticating juicer
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 Lion's Mane|aid neural plasticity|mushroom powder
