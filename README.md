@@ -31,6 +31,7 @@ Trusted crowd-sourced ideas for selection and experimentation
 
 What|Why|How
 :--|:---|:--
+Gingko Biloba|improve blood flow to brain|tincture form, take with water
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 Lion's Mane|aid neural plasticity|mushroom powder
