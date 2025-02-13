@@ -22,7 +22,7 @@ Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenation|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
-Cold S`hower|aid blood circulation|ice water in winter
+Cold Shower|aid blood circulation|ice water in winter
 Avoid Caffeine|avoid crashes and lead|not even decaf coffee
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
