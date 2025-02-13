@@ -13,16 +13,16 @@ What|Why|How
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water
 Echinacea|improve mental clarity|tincture form, take with water
 Gingko Biloba|improve blood flow to brain|tincture form, take with water
-Tumeric + Cinnamon|improve cognitive function|herbal tea blend (no tea)
-Raw vegetable juices|increase brain white matter|use a masticating juicer
+Turmeric + Cinnamon|improve cognitive function|herbal tea blend (not tea)
+Raw Vegetable Juices|increase brain white matter|use a masticating juicer
 Coriander + Chlorella|remove heavy metals|blend together with oat milk
 Distilled Water|reduce contaminants|use distiller at home
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed
 Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
-Oxygenating|maintain alkaline state|through breathwork
+Oxygenation|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
-Cold shower|aid blood circulation|ice water in winter
+Cold S`hower|aid blood circulation|ice water in winter
 Avoid Caffeine|avoid crashes and lead|not even decaf coffee
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
