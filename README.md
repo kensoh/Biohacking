@@ -2,7 +2,7 @@
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
-Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels above their present limits. Let's go get 2025!
+Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels beyond their present limits. Let's go get 2025!
 
 ### How
 Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
@@ -15,7 +15,7 @@ Echinacea|improve mental clarity|tincture form, take with water
 Gingko Biloba|improve blood flow to brain|tincture form, take with water
 Turmeric + Cinnamon|improve cognitive function|herbal tea blend (not tea)
 Raw Vegetable Juices|increase brain white matter|use a masticating juicer
-Coriander + Chlorella|remove heavy metals|blend together with oat milk
+Coriander + Chlorella|remove heavy metals|blend both with oat milk
 Distilled Water|reduce contaminants|use distiller at home
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed
 Caster Oil (topical)|aid detox process|apply just below chest
