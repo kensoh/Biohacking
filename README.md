@@ -2,7 +2,7 @@
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
-Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels beyond their present limits. Let's go get 2025!
+Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels beyond their present limits. Let's go 2025!
 
 ### How
 Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
@@ -44,7 +44,7 @@ Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazo
 
 But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at the prime of their lives.
 
-I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. That's because despite having a highly successful career in digital technologies, I'm a [seasoned player in the financial markets](https://www.linkedin.com/posts/kensoh_pleased-to-share-a-significant-milestone-activity-7291616831981694978-kQHZ).
+I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. That's because despite having a very successful career in digital technologies, I'm a [seasoned player in the financial markets](https://www.linkedin.com/posts/kensoh_pleased-to-share-a-significant-milestone-activity-7291616831981694978-kQHZ).
 
 Being a retail investor and trader for 18 years, I see the financial markets as an ultra-competitive field. Just like professional sports. To win, an investor or trader will need to optimise every thing they can, because once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally experienced traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It's as simple as that.
 
