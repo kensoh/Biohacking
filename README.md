@@ -23,11 +23,11 @@ Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenation|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
 Cold Shower|aid blood circulation|ice water in winter
-Avoid Caffeine|avoid crashes and lead|not even decaf coffee
-Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
+Avoid Sugar|reduce brain fog|eg in drinks and food
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
-Avoid Sugar|reduce brain fog|eg in drinks and food
+Avoid Caffeine|avoid crashes and lead|not even decaf coffee
+Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 
 ### Backlog
 Trusted crowd-sourced ideas for selection and experimentation
@@ -46,7 +46,7 @@ But in the 18 months after he made those changes totally unrelated to tennis tra
 
 I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. That's because despite having a very successful career in digital technologies, I'm a [seasoned player in the financial markets](https://www.linkedin.com/posts/kensoh_pleased-to-share-a-significant-milestone-activity-7291616831981694978-kQHZ).
 
-Being a retail investor and trader for 18 years, I see the financial markets as an ultra-competitive field. Just like professional sports. To win, an investor or trader will need to optimise every thing they can, because once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally experienced traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It's that simple.
+Being a retail investor and trader for 18 years, I see the financial markets as an ultra-competitive field. Just like professional sports. To win, an investor or trader will need to optimise every thing they can. Once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally experienced traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It's that simple.
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
 
