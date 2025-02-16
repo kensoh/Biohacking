@@ -23,10 +23,10 @@ Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenation|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
 Cold Shower|aid blood circulation|ice water in winter
-Avoid Sugar|reduce brain fog|eg in drinks and food
+Avoid Sugar|reduce brain fog|both in drinks and food
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
-Avoid Caffeine|avoid crashes and lead|not even decaf coffee
+Avoid Caffeine|avoid crashes & lead|not even decaf coffee
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
 
 ### Backlog
