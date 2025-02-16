@@ -34,6 +34,7 @@ Trusted crowd-sourced ideas for selection and experimentation
 
 What|Why|How
 :--|:---|:--
+Sauna|improve cognitive efficiency|Finnish sauna provider
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 Lion's Mane|aid neural plasticity|mushroom powder
