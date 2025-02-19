@@ -49,6 +49,6 @@ I'm not new to the idea that the food and nutrition we eat impact our well-being
 
 Being a retail investor and trader for 18 years, I see the financial markets as an ultra-competitive field. Just like professional sports. To win, an investor or trader will need to optimise every thing they can. Once we step into the market, we are competing with the best in the world - the hedge funds, the investment banks, the full-time traders etc. When 2 equally experienced traders meet in the market and one has slightly lesser mental clarity or some unresolved emotional baggage, that trader will lose. It's that simple.
 
-Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this idea seriously.
+Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
 Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat or fish once a week. I know that by levelling up my mental dexterity and physical energy, I'll perform better in my startup job. Both of which are needed when I'm 15 years older than the team's average age 😅
