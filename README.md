@@ -34,7 +34,8 @@ Trusted crowd-sourced ideas for selection and experimentation
 
 What|Why|How
 :--|:---|:--
-Saffron|protective effects on brain|stigmas with herbal tea
+Saffron|protective effects on the brain|stigmas with herbal tea
+Black Cohosh|possible benefit for mental health|supplement form, take with water
 Sauna|improve cognitive efficiency|Finnish sauna provider
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
