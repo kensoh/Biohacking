@@ -22,7 +22,7 @@ Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenation|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift
-Sauna + Ice Water|improve cognitive efficiency|Finnish sauna provider 
+Sauna + Ice Plunge|improve cognitive efficiency|Finnish sauna provider 
 Avoid Sugar|reduce brain fog|both in drinks and food
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
@@ -35,7 +35,7 @@ Trusted crowd-sourced ideas for selection and experimentation
 What|Why|How
 :--|:---|:--
 Saffron|protective effects on the brain|stigmas with herbal tea
-Black Cohosh|possible benefit for mental health|supplement form, take with water
+Black Cohosh|possibly benefit mental health|supplement form, take with water
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 Lion's Mane|aid neural plasticity|mushroom powder
