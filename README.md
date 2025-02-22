@@ -36,6 +36,7 @@ What|Why|How
 :--|:---|:--
 Saffron|protective effects on the brain|stigmas with herbal tea
 Black Cohosh|possibly benefit mental health|supplement form, take with water
+Ashwagandha|boost testosterone for good memory|tincture form, take with water
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 Lion's Mane|aid neural plasticity|mushroom powder
