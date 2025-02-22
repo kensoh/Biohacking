@@ -21,7 +21,7 @@ Distilled Water|reduce contaminants|use distiller at home
 Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenation|maintain alkaline state|through breathwork
-Meditation|remove baggages|let thoughts drift
+Meditation|remove baggages|let thoughts drift freely
 Sauna + Ice Plunge|improve cognitive efficiency|Finnish sauna provider 
 Avoid Sugar|reduce brain fog|both in drinks and food
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
@@ -35,7 +35,7 @@ Trusted crowd-sourced ideas for selection and experimentation
 What|Why|How
 :--|:---|:--
 Saffron|protective effects on the brain|stigmas with herbal tea
-Black Cohosh|possibly benefit mental health|supplement form, take with water
+Black Cohosh|benefit mental health|supplement form, take with water
 Ashwagandha|testosterone boost to up memory|tincture form, take with water
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
