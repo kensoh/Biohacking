@@ -13,7 +13,7 @@ What|Why|How
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water
 Echinacea|improve mental clarity|tincture form, take with water
 Gingko Biloba|improve blood flow to brain|tincture form, take with water
-Ashwagandha|testosterone boost to increase focus, take with water
+Ashwagandha|testosterone boost to increase focus|take with water
 [Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)
 Saffron|protective effects on the brain|stigmas with herbal tea
 Raw Vegetable Juices|increase brain white matter|use a masticating juicer
