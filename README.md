@@ -13,7 +13,9 @@ What|Why|How
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water
 Echinacea|improve mental clarity|tincture form, take with water
 Gingko Biloba|improve blood flow to brain|tincture form, take with water
+Ashwagandha|testosterone boost to up memory|tincture form, take with water
 [Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)
+Saffron|protective effects on the brain|stigmas with herbal tea
 Raw Vegetable Juices|increase brain white matter|use a masticating juicer
 Coriander + Chlorella|remove heavy metals|blend both with oat milk
 Distilled Water|reduce contaminants|use distiller at home
@@ -34,9 +36,7 @@ Trusted crowd-sourced ideas for selection and experimentation
 
 What|Why|How
 :--|:---|:--
-Saffron|protective effects on the brain|stigmas with herbal tea
 Black Cohosh|benefit mental health|supplement form, take with water
-Ashwagandha|testosterone boost to up memory|tincture form, take with water
 Trampolining|aid lymphatic system|jump on trampoline
 Avoid Seed Oils|reduce inflammation|eg oil used in food
 Lion's Mane|aid neural plasticity|mushroom powder
