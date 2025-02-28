@@ -38,10 +38,10 @@ Trusted crowd-sourced ideas for selection and experimentation
 What|Why|How
 :--|:---|:--
 Shilajit|improve mental clarity & energy|paste form, take with water
-Trampolining|aid lymphatic system|jump on trampoline
-Avoid Seed Oils|reduce inflammation|eg oil used in food
 Lion's Mane|aid neural plasticity|mushroom powder
 Milk Thistle|protect liver & brain|tea or powder form
+Trampolining|aid lymphatic system|jump on trampoline
+Avoid Seed Oils|reduce inflammation|eg oil used in food
 
 ### Why
 Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, eating a plant-based diet, he just couldn't get to top of the pack despite pushing hard.
