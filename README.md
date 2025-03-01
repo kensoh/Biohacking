@@ -5,7 +5,7 @@
 Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy levels beyond their present limits. Let's go 2025!
 
 ### How
-Every 2 weeks, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
+Every week, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
 
 ### Protocol
 What|Why|How
