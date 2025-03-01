@@ -25,7 +25,7 @@ Caster Oil (topical)|aid detox process|apply just below chest
 Grounding (natural)|remove excess charges|hold tree leaves or grass
 Oxygenation|maintain alkaline state|through breathwork
 Meditation|remove baggages|let thoughts drift freely
-Sauna + Ice Plunge|improve cognitive efficiency|Finnish sauna provider 
+[Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|improve cognitive efficiency|Finnish sauna provider 
 Avoid Sugar|reduce brain fog|both in drinks and food
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
 Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
