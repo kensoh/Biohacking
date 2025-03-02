@@ -8,40 +8,40 @@ Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to
 Every week, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
 
 ### Protocol
-What|Why|How
-:--|:---|:--
-[Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water
-Echinacea|improve mental clarity|tincture form, take with water
-Gingko Biloba|improve blood flow to brain|tincture form, take with water
-Ashwagandha|testosterone boost to increase focus|take with water
-[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)
-Saffron|protective effects on the brain|stigmas with herbal tea
-Black Cohosh|benefit mental health|tablet form, take with water
-Raw Vegetable Juices|increase brain white matter|use a masticating juicer
-Coriander + Chlorella|remove heavy metals|blend both with oat milk
-Distilled Water|reduce contaminants|use distiller at home
-[Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed
-Caster Oil (topical)|aid detox process|apply just below chest
-Grounding (natural)|remove excess charges|hold tree leaves or grass
-Oxygenation|maintain alkaline state|through breathwork
-Meditation|remove baggages|let thoughts drift freely
-[Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|improve cognitive efficiency|Finnish sauna provider 
-Avoid Sugar|reduce brain fog|both in drinks and food
-Avoid Gluten|reduce brain fog|eg bread, noodles, pizza
-Avoid Dairy|reduce brain fog|eg milk, cheese, pastries
-Avoid Caffeine|avoid crashes & lead|not even decaf coffee
-Avoid Alcohol|avoid hangovers|only non-alcoholic drinks
+What|Why|How|Supplier
+:--|:---|:--|:--
+[Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water|
+Echinacea|improve mental clarity|tincture form, take with water|
+Gingko Biloba|improve blood flow to brain|tincture form, take with water|
+Ashwagandha|testosterone boost to increase focus|take with water|
+[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)|
+Saffron|protective effects on the brain|stigmas with herbal tea|
+Black Cohosh|benefit mental health|tablet form, take with water|
+Raw Vegetable Juices|increase brain white matter|use a masticating juicer|
+Coriander + Chlorella|remove heavy metals|blend both with oat milk|
+Distilled Water|reduce contaminants|use distiller at home|
+[Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed|
+Caster Oil (topical)|aid detox process|apply just below chest|
+Grounding (natural)|remove excess charges|hold tree leaves or grass|
+Oxygenation|maintain alkaline state|through breathwork|
+Meditation|remove baggages|let thoughts drift freely|
+[Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|improve cognitive efficiency|Finnish sauna provider|
+Avoid Sugar|reduce brain fog|both in drinks and food|
+Avoid Gluten|reduce brain fog|eg bread, noodles, pizza|
+Avoid Dairy|reduce brain fog|eg milk, cheese, pastries|
+Avoid Caffeine|avoid crashes & lead|not even decaf coffee|
+Avoid Alcohol|avoid hangovers|only non-alcoholic drinks|
 
 ### Backlog
 Trusted crowd-sourced ideas for selection and experimentation
 
 What|Why|How
 :--|:---|:--
-Shilajit|improve mental clarity & energy|paste form, take with water
-Lion's Mane|aid neural plasticity|mushroom powder
-Milk Thistle|protect liver & brain|tea or powder form
-Trampolining|aid lymphatic system|jump on trampoline
-Avoid Seed Oils|reduce inflammation|eg oil used in food
+Shilajit|improve mental clarity & energy|paste form, take with water|
+Lion's Mane|aid neural plasticity|mushroom powder|
+Milk Thistle|protect liver & brain|tea or powder form|
+Trampolining|aid lymphatic system|jump on trampoline|
+Avoid Seed Oils|reduce inflammation|eg oil used in food|
 
 ### Why
 Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, eating a plant-based diet, he just couldn't get to top of the pack despite pushing hard.
