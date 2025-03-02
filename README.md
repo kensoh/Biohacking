@@ -8,7 +8,7 @@ Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to
 Every week, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
 
 ### Protocol
-My current biohacks with observable impacts for me, along with the suppliers I use
+My current biohacks with observable impacts for me, along with suppliers I use (no affiliation)
 
 What|Why|How|Supplier
 :--|:---|:--|:--
