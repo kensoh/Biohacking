@@ -32,8 +32,8 @@ Avoid Dairy|reduce brain fog|eg milk, cheese, pastries|-
 Avoid Caffeine|avoid crashes & lead|not even decaf coffee|-
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks|-
 
-### Backlog
-Trusted crowd-sourced ideas for selection and experimentation
+### Deprecated
+Trusted crowd-sourced ideas without observable impacts on me or impractical to implement
 
 What|Why|How|Supplier
 :--|:---|:--|:--
