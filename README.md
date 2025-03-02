@@ -8,6 +8,8 @@ Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to
 Every week, I'll write a LinkedIn post about a protocol item to share more on it, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
 
 ### Protocol
+My current biohacks with observable impacts for me, along with the suppliers I use
+
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
@@ -33,7 +35,7 @@ Avoid Caffeine|avoid crashes & lead|not even decaf coffee|-
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks|-
 
 ### Deprecated
-Trusted crowd-sourced ideas without observable impacts on me or impractical to implement
+Trusted crowd-sourced ideas without observable impacts for me, or impractical to implement
 
 What|Why|How|Supplier
 :--|:---|:--|:--
