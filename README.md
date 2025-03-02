@@ -10,12 +10,12 @@ Every week, I'll write a LinkedIn post about a protocol item to share more on it
 ### Protocol
 What|Why|How|Supplier
 :--|:---|:--|:--
-[Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water|
-Echinacea|improve mental clarity|tincture form, take with water|
-Gingko Biloba|improve blood flow to brain|tincture form, take with water|
-Ashwagandha|testosterone boost to increase focus|take with water|
-[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)|
-Saffron|protective effects on the brain|stigmas with herbal tea|
+[Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
+Echinacea|improve mental clarity|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
+Gingko Biloba|improve blood flow to brain|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula?srsltid=AfmBOooxhq1NwxaDUm1ZWsBf4ZQWPkeQIqhp_1VPoT1UWWG-7G0eZOEt#IB4)
+Ashwagandha|testosterone boost to increase focus|take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
+[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
+Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Black Cohosh|benefit mental health|tablet form, take with water|
 Raw Vegetable Juices|increase brain white matter|use a masticating juicer|
 Coriander + Chlorella|remove heavy metals|blend both with oat milk|
@@ -35,8 +35,8 @@ Avoid Alcohol|avoid hangovers|only non-alcoholic drinks|
 ### Backlog
 Trusted crowd-sourced ideas for selection and experimentation
 
-What|Why|How
-:--|:---|:--
+What|Why|How|Supplier
+:--|:---|:--|:--
 Shilajit|improve mental clarity & energy|paste form, take with water|
 Lion's Mane|aid neural plasticity|mushroom powder|
 Milk Thistle|protect liver & brain|tea or powder form|
