@@ -10,27 +10,30 @@ Every week, I'll write a LinkedIn post about a protocol item to share more on it
 ### Protocol
 What|Why|How|Supplier
 :--|:---|:--|:--
+
+What|Why|How|Supplier
+:--|:---|:--|:--
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
 Echinacea|improve mental clarity|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
 Gingko Biloba|improve blood flow to brain|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula?srsltid=AfmBOooxhq1NwxaDUm1ZWsBf4ZQWPkeQIqhp_1VPoT1UWWG-7G0eZOEt#IB4)
 Ashwagandha|testosterone boost to increase focus|take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
 [Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
 Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
-Black Cohosh|benefit mental health|tablet form, take with water|
-Raw Vegetable Juices|increase brain white matter|use a masticating juicer|
-Coriander + Chlorella|remove heavy metals|blend both with oat milk|
-Distilled Water|reduce contaminants|use distiller at home|
-[Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed|
+Black Cohosh|benefit mental health|tablet form, take with water|[link](https://schwabepharma.co.uk/products/menoherb-black-cohosh-menopause-relief-tablets?variant=50449038115165)
+Raw Vegetable Juices|increase brain white matter|use a masticating juicer|[link](https://namawell.com/en-gb/collections/juicers/products/nama-j2-global-model)
+Coriander + Chlorella|remove heavy metals|blend both with oat milk|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
+Distilled Water|reduce contaminants|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
+[Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed|-
 Caster Oil (topical)|aid detox process|apply just below chest|
-Grounding (natural)|remove excess charges|hold tree leaves or grass|
-Oxygenation|maintain alkaline state|through breathwork|
-Meditation|remove baggages|let thoughts drift freely|
+Grounding (natural)|remove excess charges|hold tree leaves or grass|-
+Oxygenation|maintain alkaline state|through breathwork|-
+Meditation|remove baggages|let thoughts drift freely|-
 [Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|improve cognitive efficiency|Finnish sauna provider|
-Avoid Sugar|reduce brain fog|both in drinks and food|
-Avoid Gluten|reduce brain fog|eg bread, noodles, pizza|
-Avoid Dairy|reduce brain fog|eg milk, cheese, pastries|
-Avoid Caffeine|avoid crashes & lead|not even decaf coffee|
-Avoid Alcohol|avoid hangovers|only non-alcoholic drinks|
+Avoid Sugar|reduce brain fog|both in drinks and food|-
+Avoid Gluten|reduce brain fog|eg bread, noodles, pizza|-
+Avoid Dairy|reduce brain fog|eg milk, cheese, pastries|-
+Avoid Caffeine|avoid crashes & lead|not even decaf coffee|-
+Avoid Alcohol|avoid hangovers|only non-alcoholic drinks|-
 
 ### Backlog
 Trusted crowd-sourced ideas for selection and experimentation
