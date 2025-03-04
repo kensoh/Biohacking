@@ -37,9 +37,9 @@ Trusted crowd-sourced ideas without observable impacts for me, or impractical to
 What|Why|How|Supplier
 :--|:---|:--|:--
 Shilajit|improve mental clarity & energy|paste form, take with water|[link](https://www.amazon.co.uk/Lotus-Blooming-Herbs-Authentic-Shilajit/dp/B013CAA7CU) [link](https://www.amazon.co.uk/Shilajit-Resin-Gold-Standard-Performance/dp/B0CG9G4CZM)
+Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Lion's Mane|aid neural plasticity|mushroom powder|[link](https://www.dirteaworld.com/products/lions-mane-mushroom)
 Milk Thistle|protect liver & brain|tea or powder form|[link](https://www.amazon.co.uk/Nature-Answers-Thistle-Gluten-Alcohol-Free/dp/B0CT5SVNGR)
-Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Oxygenation|maintain alkaline state|through breathwork|-
 Meditation|remove baggages|let thoughts drift freely|-
 Trampolining|aid lymphatic system|jump on trampoline|-
