@@ -17,7 +17,6 @@ Echinacea|improve mental clarity|tincture form, take with water|[link](https://w
 Gingko Biloba|improve blood flow to brain|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
 Ashwagandha|testosterone boost to increase focus|tincture form, take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
 [Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
-Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Black Cohosh|benefit mental health|tablet form, take with water|[link](https://schwabepharma.co.uk/products/menoherb-black-cohosh-menopause-relief-tablets?variant=50449038115165)
 Raw Vegetable Juices|increase brain white matter|use a masticating juicer|[link](https://namawell.com/en-gb/collections/juicers/products/nama-j2-global-model)
 Coriander + Chlorella|remove heavy metals|blend both with oat milk|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
@@ -25,8 +24,6 @@ Distilled Water|reduce contaminants|use distiller at home|[link](https://www.h2o
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed|-
 Caster Oil (topical)|aid detox process|apply just below chest|[link](https://www.amazon.co.uk/Castor-Oil-237ml-Nourishing-Eyelashes/dp/B0DPKY779V)
 Grounding (natural)|remove excess charges|hold tree leaves or grass|-
-Oxygenation|maintain alkaline state|through breathwork|-
-Meditation|remove baggages|let thoughts drift freely|-
 [Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|improve cognitive efficiency|Finnish or home sauna|[link](https://www.amazon.co.uk/CHILLZ®-Steam-Pod-Portable-Sauna/dp/B0CXF62Q6K)
 Avoid Sugar|reduce brain fog|both in drinks and food|-
 Avoid Gluten|reduce brain fog|eg bread, noodles, pizza|-
@@ -42,6 +39,9 @@ What|Why|How|Supplier
 Shilajit|improve mental clarity & energy|paste form, take with water|[link](https://www.amazon.co.uk/Lotus-Blooming-Herbs-Authentic-Shilajit/dp/B013CAA7CU) [link](https://www.amazon.co.uk/Shilajit-Resin-Gold-Standard-Performance/dp/B0CG9G4CZM)
 Lion's Mane|aid neural plasticity|mushroom powder|[link](https://www.dirteaworld.com/products/lions-mane-mushroom)
 Milk Thistle|protect liver & brain|tea or powder form|[link](https://www.amazon.co.uk/Nature-Answers-Thistle-Gluten-Alcohol-Free/dp/B0CT5SVNGR)
+Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
+Oxygenation|maintain alkaline state|through breathwork|-
+Meditation|remove baggages|let thoughts drift freely|-
 Trampolining|aid lymphatic system|jump on trampoline|-
 Avoid Seed Oils|reduce inflammation|eg oil used in food|-
 
