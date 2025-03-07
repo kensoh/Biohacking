@@ -14,7 +14,7 @@ What|Why|How|Supplier
 :--|:---|:--|:--
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|improve cognitive function|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
 Echinacea|improve mental clarity|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
-Gingko Biloba|improve blood flow to brain|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
+Gingko Biloba|improve brain blood flow & memory|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
 Ashwagandha|testosterone boost to increase focus|tincture form, take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
 [Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
 Black Cohosh|beneficial to mental health|tablet form, take with water|[link](https://schwabepharma.co.uk/products/menoherb-black-cohosh-menopause-relief-tablets?variant=50449038115165)
@@ -32,7 +32,7 @@ Avoid Caffeine|avoid crashes & lead|not even decaf coffee|-
 Avoid Alcohol|avoid hangovers|only non-alcoholic drinks|-
 
 ### Deprecated
-Trusted crowd-sourced ideas without observable impacts for me, or impractical to implement
+Trusted crowd-sourced ideas without observable impacts for me, or impractical for me to implement
 
 What|Why|How|Supplier
 :--|:---|:--|:--
