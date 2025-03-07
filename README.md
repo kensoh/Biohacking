@@ -18,7 +18,7 @@ Gingko Biloba|improve blood flow to brain|tincture form, take with water|[link](
 Ashwagandha|testosterone boost to increase focus|tincture form, take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
 [Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|improve cognitive function|herbal tea blend (not tea)|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
 Black Cohosh|benefit mental health|tablet form, take with water|[link](https://schwabepharma.co.uk/products/menoherb-black-cohosh-menopause-relief-tablets?variant=50449038115165)
-Raw Vegetable Juices|increase brain white matter|use a masticating juicer|[link](https://namawell.com/en-gb/collections/juicers/products/nama-j2-global-model)
+[Raw Vegetable Juices](https://www.linkedin.com/posts/kensoh_cold-pressing-raw-vegetables-at-home-is-another-activity-7303901745091411968-qrRa)|increase brain white matter|use a masticating juicer|[link](https://namawell.com/en-gb/collections/juicers/products/nama-j2-global-model)
 Coriander + Chlorella|remove heavy metals|blend both with oat milk|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
 Distilled Water|reduce contaminants|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|aid detox process|5-day fast as needed|-
