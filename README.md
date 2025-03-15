@@ -56,4 +56,4 @@ Being a retail investor and trader for 18 years, I view the financial markets as
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat or fish occasionally. By levelling up my mental dexterity and physical energy, I'll perform better and can achieve more in life.
+Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat/fish sometimes. By levelling up my mental dexterity and physical energy, I'll perform better and can achieve more in life.
