@@ -11,7 +11,7 @@ My current biohacks with observable impacts for me, along with links to my suppl
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|bump up my thinking speed|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
-Creatine|improve multi-tasking ability|powder, take with oat milk|[link](https://www.amazon.co.uk/gp/aw/d/B0129J5UWW/)
+Creatine|up my multi-tasking ability|powder form, take with oat milk|[link](https://www.amazon.co.uk/gp/aw/d/B0129J5UWW/)
 Echinacea|let me think with a clearer mind|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
 Gingko Biloba|increase my short-term memory|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
 Ashwagandha|increase my mental concentration|tincture form, take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
