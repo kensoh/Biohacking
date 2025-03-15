@@ -1,10 +1,8 @@
 # Biohacking 🧬🧠💪🔓
 [Intro video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
-### Intro
 Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to push my mental dexterity and physical energy beyond their present limits.
 
-### How
 Every week, I'll write a LinkedIn post on a protocol item I do, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
 
 ### Protocol
@@ -56,4 +54,4 @@ Being a retail investor and trader for 18 years, I view the financial markets as
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat or fish sometimes. By levelling up my mind and body, I hope to achieve more in the game of life.
+Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat or fish sometimes. By levelling up my mind and body, I hope to achieve more in this game of life.
