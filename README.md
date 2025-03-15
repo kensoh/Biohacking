@@ -11,6 +11,7 @@ My current biohacks with observable impacts for me, along with links to my suppl
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|bump up my thinking speed|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
+Creatine|improve multi-tasking ability|powder, take with oat milk|https://www.amazon.co.uk/gp/aw/d/B0129J5UWW/
 Echinacea|let me think with a clearer mind|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
 Gingko Biloba|increase my short-term memory|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
 Ashwagandha|increase my mental concentration|tincture form, take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
@@ -23,7 +24,6 @@ Distilled Water|reduce sluggishness from toxins|use distiller at home|[link](htt
 Caster Oil (topical)|give me dreams at night|apply just below chest|[link](https://www.amazon.co.uk/Castor-Oil-237ml-Nourishing-Eyelashes/dp/B0DPKY779V)
 Grounding (natural)|give me peace at heart|hold tree leaves or grass|-
 [Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|boost my energy level|Finnish sauna provider|-
-Avoid Sugar|reduce brain fog & sluggishness|both in drinks and food|-
 Avoid Gluten|reduce brain fog & sluggishness|eg bread, noodles, pizza|-
 Avoid Dairy|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
 Avoid Caffeine|avoid crashes & lead toxicity|not even decaf coffee|-
@@ -41,6 +41,7 @@ Milk Thistle|protect the liver & brain|tea or powder form|[link](https://www.ama
 Oxygenation|maintain body's alkaline state|through breathwork|-
 Meditation|remove mental baggages|let thoughts drift freely|-
 Trampolining|aid lymphatic system|jump on trampoline|-
+Avoid Sugar|reduce brain fog & sluggishness|both in drinks and food|-
 Avoid Seed Oils|reduce inflammation|eg oil used in food|-
 
 ### Why
