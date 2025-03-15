@@ -36,7 +36,7 @@ Trusted crowd-sourced ideas without observable impacts for me, or impractical fo
 
 What|Why|How|Supplier
 :--|:---|:--|:--
-Shilajit|improve mental clarity & energy|paste form, take with water|[link](https://www.amazon.co.uk/Lotus-Blooming-Herbs-Authentic-Shilajit/dp/B013CAA7CU) [link](https://www.amazon.co.uk/Shilajit-Resin-Gold-Standard-Performance/dp/B0CG9G4CZM)
+[Shilajit](https://www.linkedin.com/posts/kensoh_this-exotic-supplement-shilajit-is-another-activity-7306648113060999168-1Dyo)|improve mental clarity & energy|paste form, take with water|[link](https://www.amazon.co.uk/Lotus-Blooming-Herbs-Authentic-Shilajit/dp/B013CAA7CU) [link](https://www.amazon.co.uk/Shilajit-Resin-Gold-Standard-Performance/dp/B0CG9G4CZM)
 Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Lion's Mane|aid neural plasticity|mushroom powder|[link](https://www.dirteaworld.com/products/lions-mane-mushroom)
 Milk Thistle|protect liver & brain|tea or powder form|[link](https://www.amazon.co.uk/Nature-Answers-Thistle-Gluten-Alcohol-Free/dp/B0CT5SVNGR)
