@@ -2,7 +2,7 @@
 [Introduction video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
 
 ### Intro
-Hi, I'm Ken, and I work in a healthtech startup in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy beyond their present limits. Let's go 2025!
+Hi, I'm Ken and based in London. Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to boost my mental dexterity and physical energy beyond their present limits. Let's go 2025!
 
 ### How
 Every week, I'll write a LinkedIn post about a protocol item that I do, at the same time asking for feedback from my network on tips they have on optimising health. This will let me get inputs in the first half of the year and have a good runway to experiment on myself in the second half.
@@ -56,4 +56,4 @@ Being a retail investor and trader for 18 years, I see the financial markets as 
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
-Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat or fish once a week. I know that by levelling up my mental dexterity and physical energy, I'll perform better in my startup job. Both of which are needed when I'm 15 years older than the team's average age 😅
+Fast forward to 2025, I'm eating a mainly plant-based diet but am still experimenting, having meat or fish once a week. I know that by levelling up my mental dexterity and physical energy, I'll perform better and achieve more in life, whether it is work or family.
