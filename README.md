@@ -49,7 +49,7 @@ Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazo
 
 But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at the prime of their lives.
 
-I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. That's because despite having a very successful career in digital technologies, I'm a [seasoned player in the financial markets](https://www.linkedin.com/posts/kensoh_pleased-to-share-a-significant-milestone-activity-7291616831981694978-kQHZ).
+I'm not new to the idea that the food and nutrition we eat impact our well-being and performance. However, this was the first time I could deeply relate to someone sharing his experience on the topic. That's because despite having a very successful career in digital technologies, I'm a [seasoned player in the financial markets](https://www.linkedin.com/posts/kensoh_bitcoin-activity-7306869280547962880-5deL)].
 
 Being a retail investor and trader for 18 years, I view the financial markets as an ultra-competitive field just like professional sports. To win, an investor or trader will need to optimise every thing they can. Once we step into the same market, we are competing with the best - hedge funds, investment banks, full-time traders etc.
 
