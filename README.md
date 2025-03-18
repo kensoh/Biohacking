@@ -6,7 +6,7 @@ Starting this page to "build" in the open, if you will, on a personal focus this
 Every week, I'll write a LinkedIn post on a protocol item I do, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
 
 ### Protocol
-My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation)
+My current biohacks with observable impacts for me, along with links to suppliers (no affiliation)
 
 What|Why|How|Supplier
 :--|:---|:--|:--
@@ -30,7 +30,7 @@ Avoid Caffeine|avoid crashes & lead toxicity|not even decaf coffee|-
 Avoid Alcohol|avoid hangover downtime|only non-alcoholic drinks|-
 
 ### Deprecated
-Trusted crowd-sourced ideas with no observable impacts for me, or impractical for me to implement
+Trusted crowd-sourced ideas, either with no observable impacts for me, or impractical for me to practise
 
 What|Why|How|Supplier
 :--|:---|:--|:--
