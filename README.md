@@ -6,7 +6,7 @@ Starting this page to "build" in the open, if you will, on a personal focus this
 Every week, I'll write a LinkedIn post on a protocol item I do, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
 
 ### Protocol
-My current biohacks with observable impacts for me, along with links to suppliers (no affiliation)
+My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation)
 
 What|Why|How|Supplier
 :--|:---|:--|:--
