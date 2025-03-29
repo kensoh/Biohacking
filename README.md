@@ -22,7 +22,8 @@ Coriander + Chlorella|reduce heavy metals' brain fog|blend both with oat milk|[l
 Distilled Water|reduce sluggishness from toxins|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|let me feel really light & fast|5-day fast as needed|-
 Caster Oil (topical)|give me dreams at night|apply just below chest|[link](https://www.amazon.co.uk/Castor-Oil-237ml-Nourishing-Eyelashes/dp/B0DPKY779V)
-Grounding (natural)|give me peace at heart|hold tree leaves or grass|-
+[Grounding (natural)](
+https://www.linkedin.com/posts/kensoh_grounding-is-my-number-1-biohack-ive-been-activity-7311719368239828992-5Zr-)|give me peace at heart|hold tree leaves or grass|-
 [Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|boost my energy level|Finnish sauna provider|-
 Avoid Gluten|reduce brain fog & sluggishness|eg bread, noodles, pizza|-
 Avoid Dairy|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
