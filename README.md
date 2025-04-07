@@ -11,7 +11,6 @@ My current biohacks with observable impacts for me, along with links to my suppl
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|bump up my thinking speed|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
-Creatine|bump up my multi-tasking ability|powder form, mix with oat milk|[link](https://www.amazon.co.uk/gp/aw/d/B0129J5UWW/)
 [Echinacea](https://www.linkedin.com/posts/kensoh_echinacea-is-a-traditional-herb-used-for-activity-7308949212929351682-DSAK)|let me think with a clearer mind|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
 Gingko Biloba|increase my short-term memory|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
 Ashwagandha|increase my mental concentration|tincture form, take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
@@ -34,6 +33,7 @@ Trusted crowd-sourced ideas, either with no observable impacts for me, or imprac
 
 What|Why|How|Supplier
 :--|:---|:--|:--
+Creatine|bump up my multi-tasking ability|powder form, mix with oat milk|[link](https://www.amazon.co.uk/gp/aw/d/B0129J5UWW/)
 [Shilajit](https://www.linkedin.com/posts/kensoh_this-exotic-supplement-shilajit-is-another-activity-7306648113060999168-1Dyo)|improve mental clarity & energy|paste form, take with water|[link](https://www.amazon.co.uk/Lotus-Blooming-Herbs-Authentic-Shilajit/dp/B013CAA7CU) [link](https://www.amazon.co.uk/Shilajit-Resin-Gold-Standard-Performance/dp/B0CG9G4CZM)
 Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Lion's Mane|aid neural plasticity & learning|mushroom powder|[link](https://www.dirteaworld.com/products/lions-mane-mushroom)
