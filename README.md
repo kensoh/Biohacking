@@ -39,8 +39,8 @@ Creatine|bump up my multi-tasking ability|powder form, mix with oat milk|[link](
 Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Lion's Mane|aid neural plasticity & learning|mushroom powder|[link](https://www.dirteaworld.com/products/lions-mane-mushroom)
 Milk Thistle|protect the liver & brain|tea or powder form|[link](https://www.amazon.co.uk/Nature-Answers-Thistle-Gluten-Alcohol-Free/dp/B0CT5SVNGR)
-Oxygenation|maintain body's alkaline state|through breathwork|-
 Meditation|remove mental baggages|let thoughts drift freely|-
+Oxygenation|maintain body's alkaline state|through breathwork|-
 Trampolining|aid lymphatic system|jump on trampoline|-
 Avoid Sugar|reduce brain fog & sluggishness|both in drinks and food|-
 Avoid Seed Oils|reduce inflammation|eg oil used in food|-
