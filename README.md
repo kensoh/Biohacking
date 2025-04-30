@@ -21,7 +21,7 @@ What|Why|How|Supplier
 [Wheat Grass](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|increase energy level reduce sleep|blend with oat milk|[link](https://www.amazon.co.uk/dp/B08PDNRV2C)
 [Distilled Water](https://www.linkedin.com/posts/kensoh_distilling-water-is-how-i-get-clean-water-ugcPost-7318519083375677440-FrVZ)|reduce sluggishness from toxins|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|let me feel really light & fast|5-day fast as needed|-
-Caster Oil (topical)|give me dreams at night|apply just below chest|[link](https://www.amazon.co.uk/Castor-Oil-237ml-Nourishing-Eyelashes/dp/B0DPKY779V)
+[Caster Oil (topical)] (https://www.linkedin.com/posts/kensoh_as-part-of-biohacking-i-regularly-apply-ugcPost-7323360544160215042-FbPX)|give me dreams at night|apply just below chest|[link](https://www.amazon.co.uk/Castor-Oil-237ml-Nourishing-Eyelashes/dp/B0DPKY779V)
 [Grounding (natural)](https://www.linkedin.com/posts/kensoh_grounding-is-my-number-1-biohack-ive-been-activity-7311719368239828992-5Zr-)|give me peace at heart|hold tree leaves or grass|-
 [Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|boost my energy level|Finnish sauna provider|-
 [Avoid Gluten](https://www.linkedin.com/posts/kensoh_now-heres-a-controversial-one-gluten-why-activity-7313832621581455360-LpzJ)|reduce brain fog & sluggishness|eg bread, noodles, pizza|-
