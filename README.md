@@ -28,7 +28,7 @@ What|Why|How|Supplier
 Avoid Dairy|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
 Avoid Caffeine|avoid crashes & lead toxicity|not even decaf coffee|-
 Avoid Alcohol|avoid hangover downtime|only non-alcoholic drinks|-
-Walking (outdoor)|improve cognitive function and energy|just take a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
+Walking (outdoor)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
 
 ### Deprecated
 Trusted crowd-sourced ideas, either with no observable impacts for me, or impractical for me to practise
