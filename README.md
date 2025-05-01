@@ -34,8 +34,8 @@ Trusted crowd-sourced ideas, either with no observable impacts for me, or imprac
 
 What|Why|How|Supplier
 :--|:---|:--|:--
-Creatine|bump up my multi-tasking ability|powder form, mix with oat milk|[link](https://www.amazon.co.uk/gp/aw/d/B0129J5UWW/)
 [Shilajit](https://www.linkedin.com/posts/kensoh_this-exotic-supplement-shilajit-is-another-activity-7306648113060999168-1Dyo)|improve mental clarity & energy|paste form, take with water|[link](https://www.amazon.co.uk/Lotus-Blooming-Herbs-Authentic-Shilajit/dp/B013CAA7CU) [link](https://www.amazon.co.uk/Shilajit-Resin-Gold-Standard-Performance/dp/B0CG9G4CZM)
+Creatine|bump up my multi-tasking ability|powder form, mix with oat milk|[link](https://www.amazon.co.uk/gp/aw/d/B0129J5UWW/)
 Saffron|protective effects on the brain|stigmas with herbal tea|[link](https://www.amazon.co.uk/Luxurients-Kashmiri-Threads-Desserts-Certified/dp/B09P59VGFT?th=1)
 Lion's Mane|aid neural plasticity & learning|mushroom powder|[link](https://www.dirteaworld.com/products/lions-mane-mushroom)
 Milk Thistle|protect the liver & brain|tea or powder form|[link](https://www.amazon.co.uk/Nature-Answers-Thistle-Gluten-Alcohol-Free/dp/B0CT5SVNGR)
