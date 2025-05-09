@@ -25,9 +25,9 @@ What|Why|How|Supplier
 [Grounding (natural)](https://www.linkedin.com/posts/kensoh_grounding-is-my-number-1-biohack-ive-been-activity-7311719368239828992-5Zr-)|give me peace at heart|hold tree leaves or grass|-
 [Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|boost my energy level|Finnish sauna provider|-
 [Avoid Gluten](https://www.linkedin.com/posts/kensoh_now-heres-a-controversial-one-gluten-why-activity-7313832621581455360-LpzJ)|reduce brain fog & sluggishness|eg bread, noodles, pizza|-
-Avoid Dairy|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
-Avoid Caffeine|avoid crashes & lead toxicity|not even decaf coffee|-
-Avoid Alcohol|avoid hangover downtime|only non-alcoholic drinks|-
+[Avoid Dairy(https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
+[Avoid Caffeine](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid crashes & lead toxicity|not even decaf coffee|-
+[Avoid Alcohol](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid hangover downtime|only non-alcoholic drinks|-
 Walking (outdoor)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
 
 ### Deprecated
