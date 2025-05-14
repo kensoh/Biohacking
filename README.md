@@ -28,7 +28,7 @@ What|Why|How|Supplier
 [Avoid Dairy](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
 [Avoid Caffeine](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid energy spikes and crashes|eg coffee, tea seems ok|-
 [Avoid Alcohol](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid hangover downtime|only non-alcoholic drinks|-
-Walking (outdoor)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
+[Walking (outdoor](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
 
 ### Deprecated
 Trusted crowd-sourced ideas, either with no observable impacts for me, or impractical for me to practise
