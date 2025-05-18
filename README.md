@@ -3,7 +3,9 @@
 
 Starting this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to push my mental dexterity and physical energy beyond their present limits.
 
-Every week, I'll write a LinkedIn post on a protocol item I do, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
+Every week, I was writing a LinkedIn post on a protocol item I do, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
+
+[Concluding video on LinkedIn](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)
 
 ### Protocol
 My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation). I'm in the midst of testing Creatine HCL (instead of monohydrate) and Tiger Nut Milk to boost my multitasking ability and physical energy respectively.
