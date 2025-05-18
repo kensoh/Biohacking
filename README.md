@@ -1,5 +1,5 @@
 # Biohacking 🧬🧠💪🔓
-[Intro video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)
+***[Intro video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)***
 
 Started this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to push my mental dexterity and physical energy beyond their present limits.
 
