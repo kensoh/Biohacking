@@ -8,7 +8,7 @@ Every week, I was writing a LinkedIn post on a protocol item I do, at the same t
 ***Largely done - [concluding video](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)***
 
 ### Protocol
-My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation). I'm also in the midst of testing not taking Echinacea, Gingko Biloba, Black Cohosh, Raw Vegetable Juice, Wheat Grass, Castor Oil.
+My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation). I'm also in the midst of testing not taking Echinacea, Gingko Biloba, Black Cohosh, Vegetable Juices, Wheat Grass, Castor Oil.
 
 What|Why|How|Supplier
 :--|:---|:--|:--
