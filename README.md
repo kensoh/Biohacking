@@ -8,14 +8,13 @@ Every week, I was writing a LinkedIn post on a protocol item I do, at the same t
 ***Largely done - [concluding video](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)***
 
 ### Protocol
-My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation). I'm also in the midst of testing not taking Echinacea, Gingko Biloba, Black Cohosh, Vegetable Juices, Wheat Grass, Castor Oil.
+My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation).
 
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Methylene Blue](https://www.linkedin.com/posts/kensoh_this-is-pharma-grade-methylene-blue-a-dye-activity-7288625704156463104-VTGa)|bump up my thinking speed|pharma grade, take with water|[link](https://sourceofnature.eu/products/1-methylene-blue-50ml-dropper-bottle-pharmaceutical-grade-usp)
 [Gingko Biloba](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-routine-to-push-activity-7321109710391173120-XdOh)|increase my short-term memory|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
 [Ashwagandha](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-routine-to-push-activity-7321109710391173120-XdOh)|increase my mental concentration|tincture form, take with water|[link](https://www.amazon.co.uk/Natures-Answer-Alcohol-Free-Ashwagandha-2-Fluid/dp/B0001VUTZY)
-[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|let me feel mentally grounded|herbal tea blend, not tea|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
 [Coriander + Chlorella](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|reduce heavy metals' brain fog|blend both with oat milk|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
 [Distilled Water](https://www.linkedin.com/posts/kensoh_distilling-water-is-how-i-get-clean-water-ugcPost-7318519083375677440-FrVZ)|reduce sluggishness from toxins|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|let me feel really light & fast|5-day fast as needed|-
@@ -33,6 +32,7 @@ Trusted crowd-sourced ideas, either with no observable impacts for me, or imprac
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Echinacea](https://www.linkedin.com/posts/kensoh_echinacea-is-a-traditional-herb-used-for-activity-7308949212929351682-DSAK)|let me think with a clearer mind|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
+[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|let me feel mentally grounded|herbal tea blend, not tea|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
 [Black Cohosh](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-routine-to-push-activity-7321109710391173120-XdOh)|let me feel more calmness|tablet form, take with water|[link](https://schwabepharma.co.uk/products/menoherb-black-cohosh-menopause-relief-tablets?variant=50449038115165)
 [Raw Vegetable Juices](https://www.linkedin.com/posts/kensoh_cold-pressing-raw-vegetables-at-home-is-another-activity-7303901745091411968-qrRa)|up my long-term memory|use a masticating juicer|[link](https://namawell.com/en-gb/collections/juicers/products/nama-j2-global-model)
 [Wheat Grass](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|increase energy level reduce sleep|blend with oat milk|[link](https://www.amazon.co.uk/dp/B08PDNRV2C)
