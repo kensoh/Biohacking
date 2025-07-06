@@ -27,13 +27,13 @@ What|Why|How|Supplier
 [Avoid Alcohol](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid hangover downtime|only non-alcoholic drinks|-
 
 ### Deprecated
-Trusted crowd-sourced ideas, either with no observable impacts for me, or impractical for me to practise
+Trusted crowd-sourced ideas, either with little impacts for me, or impractical for me to practise
 
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Echinacea](https://www.linkedin.com/posts/kensoh_echinacea-is-a-traditional-herb-used-for-activity-7308949212929351682-DSAK)|let me think with a clearer mind|tincture form, take with water|[link](https://www.amazon.co.uk/Vogel-Echinaforce-Echinacea-Drops-100/dp/B004EYZ3OG)
-[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|let me feel mentally grounded|herbal tea blend, not tea|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
 [Black Cohosh](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-routine-to-push-activity-7321109710391173120-XdOh)|let me feel more calmness|tablet form, take with water|[link](https://schwabepharma.co.uk/products/menoherb-black-cohosh-menopause-relief-tablets?variant=50449038115165)
+[Turmeric + Cinnamon](https://www.linkedin.com/posts/kensoh_this-is-also-known-as-golden-milk-im-activity-7298425725957656580-SK_d)|let me feel mentally grounded|herbal tea blend, not tea|[link](https://www.yogitea.com/en/products/yogi-tea/turmeric-chai/)
 [Raw Vegetable Juices](https://www.linkedin.com/posts/kensoh_cold-pressing-raw-vegetables-at-home-is-another-activity-7303901745091411968-qrRa)|up my long-term memory|use a masticating juicer|[link](https://namawell.com/en-gb/collections/juicers/products/nama-j2-global-model)
 [Wheat Grass](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|increase energy level reduce sleep|blend with oat milk|[link](https://www.amazon.co.uk/dp/B08PDNRV2C)
 [Caster Oil (topical)](https://www.linkedin.com/posts/kensoh_as-part-of-biohacking-i-regularly-apply-ugcPost-7323360544160215042-FbPX)|give me dreams at night|apply just below chest|[link](https://www.amazon.co.uk/Castor-Oil-237ml-Nourishing-Eyelashes/dp/B0DPKY779V)
