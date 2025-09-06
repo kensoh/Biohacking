@@ -5,7 +5,7 @@ Started this page to "build" in the open, if you will, on a personal focus this 
 
 Every week, I was writing a LinkedIn post on a protocol item I do, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
 
-***Largely done - [concluding video](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)***
+***[Concluding video on LinkedIn](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)***
 
 ### Protocol
 My current biohacks with observable impacts for me, along with links to my suppliers (no affiliation)
