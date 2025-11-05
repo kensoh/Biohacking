@@ -12,6 +12,7 @@ My current biohacks with observable impacts for me, along with links to my suppl
 
 What|Why|How|Supplier
 :--|:---|:--|:--
+Turmeric & Ginger|recharge with earthy energy|tincture form, take with water|[link](https://mojudrinks.com/)
 [Gingko Biloba](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-routine-to-push-activity-7321109710391173120-XdOh)|increase my short-term memory|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
 [Coriander + Chlorella](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|reduce heavy metals' brain fog|blend both with apple juice|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
 [Distilled Water](https://www.linkedin.com/posts/kensoh_distilling-water-is-how-i-get-clean-water-ugcPost-7318519083375677440-FrVZ)|reduce sluggishness from toxins|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
