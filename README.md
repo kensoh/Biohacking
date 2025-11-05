@@ -53,8 +53,8 @@ Avoid Seed Oils|reduce inflammation|eg oil used in food|-
 ### Why
 Back in 2023 I read this book [Serve To Win by Novak Djokovic](https://www.amazon.co.uk/Serve-Win-Gluten-free-Physical-Excellence/dp/0552170534), world's #1 in tennis. In his book, he outlined how dietary and nutritional changes led to outsized impact on his performance on the court. Prior to doing things like avoiding gluten, dairy, eating a plant-based diet, he couldn't get to top of the pack despite pushing hard.
 
-But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at the prime of their lives.
+But in the 18 months after he made those changes totally unrelated to tennis training, he rose up and has stayed there for many many years. At 36, he is still [outperforming younger opponents](https://ausopen.com/video-player#!?videoId=6367445567112) at their prime.
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
-Fast forward to 2025 Q4, I'm eating a solely plant-based diet. By levelling up my mind and body, I hope to achieve more in this game of life.
+Fast forward to 2025 Q4, I'm eating a solely plant-based diet. By levelling up my mind and body, I want to achieve more in this game of life.
