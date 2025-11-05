@@ -1,5 +1,5 @@
 # Biohacking 🧬🧠💪🔓
-***[Intro video on LinkedIn](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)***
+***[Introduction video](https://www.linkedin.com/posts/kensoh_hi-guys-im-turning-44-soon-and-i-think-activity-7286335586817179649-U2US)***
 
 Started this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to push my mental dexterity and physical energy beyond their present limits.
 
@@ -19,7 +19,6 @@ Turmeric & Ginger|recharge with earthy energy|cold-pressed juice form|[link](htt
 [Caster Oil (topical)](https://www.linkedin.com/posts/kensoh_as-part-of-biohacking-i-regularly-apply-ugcPost-7323360544160215042-FbPX)|give me dreams at night|apply on forehead|[link](https://amzn.eu/d/iolUWWa)
 [Grounding (natural)](https://www.linkedin.com/posts/kensoh_grounding-is-my-number-1-biohack-ive-been-activity-7311719368239828992-5Zr-)|give me peace at heart|hold tree leaves or grass|-
 [Walking (outdoor)](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
-
 Avoid Soy|reduce brain fog & sluggishness|eg tofu, soy milk, vegan patty|-
 [Avoid Gluten](https://www.linkedin.com/posts/kensoh_now-heres-a-controversial-one-gluten-why-activity-7313832621581455360-LpzJ)|reduce brain fog & sluggishness|eg bread, noodles, pizza|-
 [Avoid Dairy](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
