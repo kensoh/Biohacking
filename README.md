@@ -3,7 +3,7 @@
 
 Started this page to "build" in the open, if you will, on a personal focus this year - biohacking. I'm turning 44 this year and would like to push my mental dexterity and physical energy beyond their present limits.
 
-Every week, I was writing a LinkedIn post on a protocol item I do, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
+Every week, I was writing a LinkedIn post on a protocol item I did, at the same time asking for feedback from my network on tips they have on optimising health. Inputs --> Experiments --> Reviews --> Repeat.
 
 ***[Concluding video](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)***
 
@@ -13,10 +13,10 @@ My current biohacks with observable impacts for me, along with links to my suppl
 What|Why|How|Supplier
 :--|:---|:--|:--
 [Gingko Biloba](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-routine-to-push-activity-7321109710391173120-XdOh)|increase my short-term memory|tincture form, take with water|[link](https://www.herbdoc.com/brain-formula#IB4)
-[Coriander + Chlorella](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|reduce heavy metals' brain fog|blend both with oat milk|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
+[Coriander + Chlorella](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|reduce heavy metals' brain fog|blend both with apple juice|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
 [Distilled Water](https://www.linkedin.com/posts/kensoh_distilling-water-is-how-i-get-clean-water-ugcPost-7318519083375677440-FrVZ)|reduce sluggishness from toxins|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
 [Fasting (no food)](https://www.linkedin.com/posts/kensoh_the-benefits-of-fasting-are-more-commonly-activity-7293436290824372224-nBMc)|let me feel really light & fast|5-day fast as needed|-
-[Caster Oil (topical)](https://www.linkedin.com/posts/kensoh_as-part-of-biohacking-i-regularly-apply-ugcPost-7323360544160215042-FbPX)|give me dreams at night|apply just below chest|[link](https://amzn.eu/d/iolUWWa)
+[Caster Oil (topical)](https://www.linkedin.com/posts/kensoh_as-part-of-biohacking-i-regularly-apply-ugcPost-7323360544160215042-FbPX)|give me dreams at night|apply on forehead|[link](https://amzn.eu/d/iolUWWa)
 [Grounding (natural)](https://www.linkedin.com/posts/kensoh_grounding-is-my-number-1-biohack-ive-been-activity-7311719368239828992-5Zr-)|give me peace at heart|hold tree leaves or grass|-
 [Walking (outdoor)](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
 [Sauna + Ice Plunge](https://www.linkedin.com/posts/kensoh_ive-started-trying-out-finnish-sauna-and-activity-7301411047406477312-s19p)|boost my energy level|Finnish sauna provider|-
