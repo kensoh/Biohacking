@@ -12,7 +12,7 @@ My current biohacks with observable impacts for me, along with links to my suppl
 
 What|Why|How|Supplier
 :--|:---|:--|:--
-[Walking (outdoor)](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
+[Walking outdoor](https://www.linkedin.com/posts/kensoh_walking-is-a-biohack-that-ive-started-doing-ugcPost-7328360826929561600-37im)|boost the mind and energy|just go for a walk outdoor|[link](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier), [link](https://www.nature.com/articles/s41598-022-26093-2)
 Avoid Soy|reduce brain fog & sluggishness|eg tofu, soy milk, vegan patty|-
 [Avoid Gluten](https://www.linkedin.com/posts/kensoh_now-heres-a-controversial-one-gluten-why-activity-7313832621581455360-LpzJ)|reduce brain fog & sluggishness|eg bread, noodles, pizza|-
 [Avoid Dairy](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
@@ -57,4 +57,4 @@ But in the 18 months after he made those changes totally unrelated to tennis tra
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
-Fast forward to 2026 Q3, I'm having this [diet with 4 staples](https://www.linkedin.com/posts/kensoh_is-there-an-ideal-trading-diet-i-would-ugcPost-7502257262959460352-tAic/). By levelling up my mind and body, I want to achieve more in this game of life.
+Fast forward to 2026 Q3, I'm having this [diet with 4 staples](https://www.linkedin.com/posts/kensoh_is-there-an-ideal-trading-diet-i-would-ugcPost-7502257262959460352-tAic/).
