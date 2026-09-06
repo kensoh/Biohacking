@@ -57,4 +57,4 @@ But in the 18 months after he made those changes totally unrelated to tennis tra
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
-Fast forward to 2026 Q3, I'm having this [diet with 4 staples](https://www.linkedin.com/posts/kensoh_is-there-an-ideal-trading-diet-i-would-ugcPost-7502257262959460352-tAic/).
+Fast forward to 2026 Q3, I'm having [this diet with 4 staples](https://www.linkedin.com/posts/kensoh_is-there-an-ideal-trading-diet-i-would-ugcPost-7502257262959460352-tAic/).
