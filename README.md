@@ -16,7 +16,6 @@ What|Why|How|Supplier
 Avoid Soy|reduce brain fog & sluggishness|eg tofu, soy milk, vegan patty|-
 [Avoid Gluten](https://www.linkedin.com/posts/kensoh_now-heres-a-controversial-one-gluten-why-activity-7313832621581455360-LpzJ)|reduce brain fog & sluggishness|eg bread, noodles, pizza|-
 [Avoid Dairy](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|reduce brain fog & sluggishness|eg milk, cheese, pastries|-
-[Avoid Caffeine](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid energy spikes and crashes|eg coffee, tea seems ok|-
 [Avoid Alcohol](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid hangover downtime|only non-alcoholic drinks|-
 
 ### Deprecated
@@ -24,6 +23,7 @@ Trusted crowd-sourced ideas, either with little impacts for me, or impractical f
 
 What|Why|How|Supplier
 :--|:---|:--|:--
+[Avoid Caffeine](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid energy spikes and crashes|eg coffee, tea seems ok|-
 Turmeric & Ginger|recharge with earthy energy|cold-pressed juice form|[link](https://mojudrinks.com/)
 [Coriander + Chlorella](https://www.linkedin.com/posts/kensoh_coriander-chlorella-wheatgrass-i-blend-activity-7316762357739778048-0zHl)|reduce heavy metals' brain fog|blend both with apple juice|[link](https://groceries.morrisons.com/products/morrisons-fresh-coriander/108429335) [link](https://sevenhillswholefoods.com/products/organic-chlorella-powder?variant=32463141929007)
 [Distilled Water](https://www.linkedin.com/posts/kensoh_distilling-water-is-how-i-get-clean-water-ugcPost-7318519083375677440-FrVZ)|reduce sluggishness from toxins|use distiller at home|[link](https://www.h2olabs.co.uk/p-8-stainless-steel-uk-model-300sse-water-distiller-with-glass-carafe.aspx)
@@ -57,4 +57,4 @@ But in the 18 months after he made those changes totally unrelated to tennis tra
 
 Novak's book showed a real example of how a tennis pro's performance could be optimised outside of the courts and gym. His success story in an ultra-competitive field gave me the push I needed to take this seriously.
 
-Fast forward to 2025 Q4, I'm eating a solely plant-based diet. By levelling up my mind and body, I want to achieve more in this game of life.
+Fast forward to 2026 Q3, I'm having this [diet with 4 staples]([Avoid Caffeine](https://www.linkedin.com/posts/kensoh_as-part-of-my-biohacking-to-improve-work-activity-7326697284530810880-Ezz3)|avoid energy spikes and crashes|eg coffee, tea seems ok|-). By levelling up my mind and body, I want to achieve more in this game of life.
